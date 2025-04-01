@@ -1,16 +1,99 @@
-## Hi there 👋
+# Hello, I'm Mert! 👋
 
-<!--
-**mmertylmz/mmertylmz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=435&lines=Fullstack+Developer;Always+learning+new+things;.NET+%7C+JavaScript+%7C+Python" alt="Typing SVG" />
+</div>
 
-Here are some ideas to get you started:
+## 💻 Fullstack Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a developer who continuously improves myself in software development and enjoys discovering new technologies.
+
+### 🛠️ Technical Skills
+
+**Programming Languages:**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,cs,js,python" />
+  </a>
+</p>
+
+**Frontend:**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,svelte,jquery" />
+  </a>
+</p>
+
+**Backend:**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=dotnet,fastapi" />
+  </a>
+</p>
+
+**Databases:**
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="sqlserver" width="40" height="40"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=sqlite,postgresql" />
+  </a>
+</p>
+
+**DevOps & Tools:**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,azure" />
+  </a>
+</p>
+
+<details>
+<summary>More Skills</summary>
+<br>
+
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Agile](https://img.shields.io/badge/-Agile-47A248?style=flat-square&logo=agile&logoColor=white)
+![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
+![Monday.com](https://img.shields.io/badge/-Monday.com-FF3366?style=flat-square&logo=monday&logoColor=white)
+</details>
+
+### 🔍 Areas of Interest
+- Software development methodologies
+- New technologies and frameworks
+- Performance optimization
+- Clean code practices
+
+### 📫 Contact
+Feel free to reach out:
+<p align="left">
+  <a href="mailto:mertcnylmz0698@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/mertcnylmz0698/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mmertylmz&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmertylmz&layout=compact&theme=radical&langs_count=8&hide=html,css,javascript"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mmertylmz&theme=radical" alt="GitHub Streak" />
+</div>
+
+<!-- Snake animation -->
+<div align="center">
+  <img alt="Snake Animation" src="https://github.com/mmertylmz/mmertylmz/blob/output/github-contribution-grid-snake.svg"/>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=mmertylmz&color=blueviolet" alt="Profile Views" />
+  ⭐️ From <a href="https://github.com/mmertylmz">mmertylmz</a>
+</div>
