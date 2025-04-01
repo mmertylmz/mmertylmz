@@ -58,12 +58,6 @@ I'm a developer who continuously improves myself in software development and enj
 ![Monday.com](https://img.shields.io/badge/-Monday.com-FF3366?style=flat-square&logo=monday&logoColor=white)
 </details>
 
-### 🔍 Areas of Interest
-- Software development methodologies
-- New technologies and frameworks
-- Performance optimization
-- Clean code practices
-
 ### 📫 Contact
 Feel free to reach out:
 <p align="left">
@@ -88,12 +82,15 @@ Feel free to reach out:
 
 <!-- Snake animation -->
 <div align="center">
-  <img alt="Snake Animation" src="https://github.com/mmertylmz/mmertylmz/blob/output/github-contribution-grid-snake.svg"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/mmertylmz/mmertylmz/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/mmertylmz/mmertylmz/blob/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake Animation" src="https://github.com/mmertylmz/mmertylmz/blob/output/github-contribution-grid-snake.svg"/>
+  </picture>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mmertylmz&color=blueviolet" alt="Profile Views" />
   ⭐️ From <a href="https://github.com/mmertylmz">mmertylmz</a>
 </div>
