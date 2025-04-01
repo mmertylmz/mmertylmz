@@ -20,7 +20,7 @@ I'm a developer who continuously improves myself in software development and enj
 **Frontend:**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,svelte,jquery" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,svelte,jquery" />
   </a>
 </p>
 
