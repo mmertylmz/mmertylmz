@@ -76,10 +76,6 @@ Feel free to reach out:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmertylmz&layout=compact&theme=radical&langs_count=8&hide=html,css,javascript"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mmertylmz&theme=radical" alt="GitHub Streak" />
-</div>
-
 <!-- Snake animation -->
 <div align="center">
   <picture>
