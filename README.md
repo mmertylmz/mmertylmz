@@ -76,7 +76,7 @@ Feel free to reach out:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmertylmz&layout=compact&theme=radical&langs_count=8&hide=html,css,javascript"/>
 </div>
 
-<!-- Snake animation -->
+<!-- Snake animation
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/mmertylmz/mmertylmz/blob/output/github-contribution-grid-snake-dark.svg" />
@@ -84,6 +84,7 @@ Feel free to reach out:
     <img alt="Snake Animation" src="https://github.com/mmertylmz/mmertylmz/blob/output/github-contribution-grid-snake.svg"/>
   </picture>
 </div>
+ -->
 
 ---
 
