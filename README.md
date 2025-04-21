@@ -69,12 +69,6 @@ Feel free to reach out:
   </a>
 </p>
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mmertylmz&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmertylmz&layout=compact&theme=radical&langs_count=8&hide=html,css,javascript"/>
-</div>
 
 <!-- Snake animation
 <div align="center">
