@@ -13,7 +13,7 @@ I'm a developer who continuously improves myself in software development and enj
 **Programming Languages:**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,cs,js,python" />
+    <img src="https://skillicons.dev/icons?i=cpp,cs,js,go,python" />
   </a>
 </p>
 
