@@ -70,19 +70,6 @@ I'm a **fullstack developer** who enjoys taking an idea all the way from the dat
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mmertylmz&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmertylmz&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top languages" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=mmertylmz&hide_border=true&theme=tokyonight" alt="GitHub streak" />
-</div>
-
----
-
 ## Contribution Snake
 
 <div align="center">
